@@ -1,0 +1,16 @@
+C:\Users\01\source\repos\5039203-1\5039203-1\bin\Debug\net8.0-windows\5039203-1.exe
+C:\Users\01\source\repos\5039203-1\5039203-1\bin\Debug\net8.0-windows\5039203-1.deps.json
+C:\Users\01\source\repos\5039203-1\5039203-1\bin\Debug\net8.0-windows\5039203-1.runtimeconfig.json
+C:\Users\01\source\repos\5039203-1\5039203-1\bin\Debug\net8.0-windows\5039203-1.dll
+C:\Users\01\source\repos\5039203-1\5039203-1\bin\Debug\net8.0-windows\5039203-1.pdb
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.AssemblyInfoInputs.cache
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.AssemblyInfo.cs
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.csproj.CoreCompileInputs.cache
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.dll
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\refint\5039203-1.dll
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.pdb
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.genruntimeconfig.cache
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\ref\5039203-1.dll
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\_5039203_1.Form1.resources
+C:\Users\01\source\repos\5039203-1\5039203-1\obj\Debug\net8.0-windows\5039203-1.csproj.GenerateResource.cache
